@@ -1,0 +1,1320 @@
+#list of routes in Dalkey Quarry, Dublin, Ireland. Inculding route number, route name, grade and star rating
+
+#DOCUMENTATION
+#Routes listing taken from http://www.ukclimbing.com/logbook/crag.php?id=2337
+#Formatted using the find all function in sublime (with the help of regex)
+
+2
+Arrow
+HS 4b 
+
+3
+Arrow Head
+VD  
+
+
+4
+No Sweat
+VD  
+
+5
+Curare
+VD  
+
+6
+Faery Feet
+VS 4b 
+
+
+7
+Tipp Toed
+VS 4c 
+
+8
+Gwynne's Chimney
+VS 4c *
+
+
+9
+Hoochie Couchie Couloir
+E1 5c *
+
+10
+Salacia
+VS 4b 
+
+11
+Mitre
+D  
+
+
+12
+Cenotaph
+HVS 5a 
+
+13
+Sepulchre
+VS 4c 
+
+14
+Aiseiri
+HVS 5a 
+
+
+15
+Long Arm Of The Law
+E1 5b *
+
+16
+Superior Airs
+E1 5b 
+
+
+17
+Central Rib
+VS 4c 
+
+
+18
+Rapture
+E5 6b **
+
+
+19
+Great Central Route
+E3 6a **
+
+20
+Maricon
+E3 5c **
+
+
+21
+Pink Fluffy Clouds
+E4 5c 
+
+22
+South Central Arete
+D  
+
+23
+Great Gully
+D  
+
+24
+Morning Shade
+HS a1 
+
+25
+Slapstick
+E7 6b **
+
+
+26
+Spandex
+E6 6b **
+
+
+27
+Return of the Jedi
+E5 6b *
+
+
+28
+Yellow Line Rider
+E1 5b 
+
+29
+Central Buttress
+E1 4a,5b, ***
+
+
+30
+Hari Kari Groove
+E3 5c **
+
+31
+Porn for Fun
+E4 6a **
+
+
+32
+Soft Touch
+E4 6a 
+
+
+33
+Port Cullis
+E4 6a ***
+
+34
+Astrodog
+E2 5c **
+
+
+35
+Clito From Spaco
+E3 5c 
+
+36
+Windhover
+HVS 5b 
+
+
+37
+Xanadu
+E1 5c 
+
+
+38
+Spiral
+S 4a 
+
+39
+Brown Sugar
+HS 4a 
+
+40
+Savage Gully
+VD  
+
+41
+Savage Arete
+VS 4a,4b *
+
+
+42
+Savage Rib
+HS 4a 
+
+43
+Cathy Crackers
+VS 4b 
+
+44
+Toasted Special
+HVS 5a 
+
+45
+Distrust
+VS 4c 
+
+46
+Distrust Direct
+HVS 5a 
+
+47
+Thrust
+HVS 4c,5a ***
+
+48
+Crime in the City
+E4 6a **
+
+49
+Myasta Junction
+E5 6a *
+
+50
+Arcadia
+E2 5c 
+
+51
+Preamble
+VS 4c 
+
+52
+Giant's Staircase
+S 3c **
+
+53
+Gulf Crisis
+E3 6a *
+
+54
+Bitter Aftertaste
+E6 6a **
+
+
+55
+The Prisoner
+E5 6a ***
+
+
+56
+Graham Crackers
+HVS 5a ***
+
+
+57
+Cell Block H
+E1 5b **
+
+58
+ Mar/14After Midnight
+E2 5b *
+
+59
+Tower Ridge Direct
+E2 5c **
+
+60
+Frenzy
+E1 5b *
+
+61
+Praying Mantis
+E3 5c *
+
+62
+Tower Ridge
+D  **
+
+63
+Flake Out
+HS 4b 
+
+64
+Boulder Rib
+M  
+
+65
+Chockstone Gully
+M  
+
+66
+Shadowdancer
+E1 5b 
+
+67
+Crom Dubh
+S 3c 
+
+68
+Time Burner
+HS 4b,3c 
+
+69
+Helios
+VS 4c ***
+
+70
+Hothead
+E2 5b **
+
+71
+In Absentia
+HVS 5a ***
+
+
+72
+Ultima Thule
+E1 4b,5b *
+
+73
+Hyperion
+VS 4b,4c ***
+
+74
+Hyjack
+E2 5c 
+
+75
+Samson
+E2 5b 
+
+76
+Brain Damage
+HVS 5a 
+
+77
+Q
+E2 5c 
+
+78
+Jody Sue on the Brain
+E1 5c 
+
+79
+Falconius
+HS 4b,4a 
+
+80
+Purgatory
+E3 5c *
+
+81
+Preacher
+HVS 4b,5a *
+
+82
+Visions of the Emerald Beyond
+E3 5c 
+
+83
+Wits End
+D  
+
+84
+Prealpina
+S 3c 
+
+
+85
+Impromptu
+D  
+
+
+86
+Crescendo
+D  
+
+
+87
+Black Hand Gang
+VD  
+
+
+
+Butler Arms
+D  
+
+90
+Dentifrice
+D  
+
+91
+North Gully
+M  
+
+92
+Grave
+S 3c *
+
+
+93
+Pilaster
+VS 4c ***
+
+
+94
+Crash Landing
+E1 5b **
+
+
+95
+Pan Pan
+E3 6a 
+
+
+96
+Cruise Arete
+E4 6b 
+
+97
+Solitary Confinement
+E5 6b ***
+
+98
+Bushmills
+E1 5b *
+
+
+99
+Creeping Paralysis
+E2 6a 
+
+100
+Sham Gully
+VS 5b 
+
+
+101
+Cyquest
+VS 5b 
+
+102
+Cirrus Minor
+E1 5b *
+
+
+103
+Bracket Wall
+HVS 5a **
+
+
+104
+Five-Two-Q
+E2 5c 
+
+105
+Charleston
+HS 4b *
+
+
+106
+Charleston Direct
+VS 4c **
+
+
+107
+Notorious
+E2 5c **
+
+
+108
+Blood Crack
+HVS 5b *
+
+
+109
+Slab and Notch
+D  
+
+110
+West Valley Chimney
+S 3c 
+
+
+111
+Keyhole
+VS 4c 
+
+
+112
+Flat Slab Grooves
+S 4a 
+
+
+113
+Flat Slab Direct
+VD  
+
+114
+Siesta
+VS 4b 
+
+
+115
+Spailpin
+E1 5c *
+
+
+116
+Kowabunga
+E1 5c *
+
+
+117
+Mahjongg
+VS 4c **
+
+
+118
+Died Intestate
+HVS 5b 
+
+
+119
+Levitation
+HS 4b *
+
+
+120
+Gardener's Joy
+D  
+
+
+121
+Fragile
+HS 4b 
+
+
+122
+Paradise Lost
+VD  ***
+
+
+123
+Moonlighter
+VS 4b 
+
+
+124
+Still Storming
+VS 4c 
+
+125
+Solid State
+VS 4c 
+
+126
+Jacob's Ladder
+VD  
+
+127
+Scarface
+HS 4b 
+
+128
+Central Gully
+M  
+
+129
+Mason's Route
+VS 4b 
+
+130
+Scavenger
+VS 4c **
+
+
+131
+Exertion
+HVS 5a *
+
+
+132
+A Route
+D  
+
+
+133
+C Route
+HS 4b 
+
+
+134
+D Route
+S 4a ***
+
+
+135
+E Route
+VS 4b **
+
+
+136
+Body Fluid
+E5 6c *
+
+137
+Body Stretcher
+HVS 5b *
+
+
+138
+F Route
+HS 4b **
+
+
+139
+Gap
+HVS 5a 
+
+140
+West Wall
+S 4a 
+
+
+141
+Asterisk
+E6 6b **
+
+142
+The Green Fool
+E5 6b ***
+
+143
+Gargoyle Groove
+HVS 5b ***
+
+
+144
+26Gargoyle Groove Direct
+E1 5b ***
+
+
+145
+Tantalus
+HVS 5a 
+
+146
+Fifth Avenue
+HS 4b *
+
+
+147
+Twenty Third Street
+HVS 5a 
+
+148
+Easy Gully Escape Route
+HVS 5b 
+
+149
+Not So Easy Gully
+E3 6a 
+
+150
+Easy Gully
+M  
+
+
+151
+Hen's Race
+VD  
+
+152
+Fresco
+S 4a 
+
+153
+Winder's Funnel
+VS 4c 
+
+154
+Rasberry Ripple
+VS 5a *
+
+
+155
+Winder's Slab
+VS 4b **
+
+
+156
+Little Wing
+E1 5b *
+
+
+157
+Winder's Crack
+D  **
+
+
+158
+Bird Brain
+E6 6b 
+
+
+159
+Northern Exposure
+E6 6b 
+
+160
+Paul's Edge
+HVS 5a **
+
+
+161
+Illegitimate Gully
+D  
+
+162
+Lush
+E7 6c *
+
+
+163
+Schizo
+E4 6a *
+
+164Brain Drain
+E5 6b *
+
+165
+For Your Eyes Only
+E3 5c 
+
+
+166
+Peter Pan
+S 3c 
+
+167
+Pit Pat
+S 4a 
+
+168
+Chomolungma
+E6 6b **
+
+
+169
+Torchie Flies West
+HVS 5a 
+
+
+170
+Great Eastern
+HVS 5b *
+
+
+171
+Southern Comfort
+VS 4b 
+
+172
+Dillon's Dawn
+E5 6c 
+
+
+173
+The Gnasher
+E2 6a **
+
+
+174
+Binglestein
+VS 4b *
+
+
+175
+Fall Out
+S 4a 
+
+176
+Tastebomb
+S  
+
+177
+Grabber
+VS 5a 
+
+178
+Grike
+VD  
+
+179
+Boogie
+VD  
+
+180
+Ground Hog
+HS 4a 
+
+181
+Badge
+HVS 5b *
+
+182
+Jameson 10
+VS 4b ***
+
+
+183
+Tom Tit
+E2 6a **
+
+
+184
+Superette
+HVS 5a **
+
+
+185
+Delectissima
+S 4a *
+
+
+186
+Calypso
+S 4a 
+
+
+187
+Tramp
+VS 4c **
+
+
+188
+Shuffle
+E1 5c 
+
+189
+Dirty Dick
+VS 4b *
+
+
+190
+The Rack
+E3 6a 
+
+191
+Damphommer
+VS 4c 
+
+
+192
+Pseudo
+S 4a 
+
+193
+Orcist Goblin-Cleaver
+HS 4b 
+
+195
+Ivy Soap
+HVS 5b 
+
+196
+K-Squared
+VS 4c *
+
+
+197
+Squuezy
+E2 5b 
+
+198
+Kozangas
+VD  
+
+
+199
+Blackwind
+S 4a 
+
+200
+Eachtra
+VD  
+
+201
+ at) ??/Feb/13Ivy Chimney
+S  
+
+
+202
+ at) 27/Sep/13Ex-Ivy Wall
+HVS 5b 
+
+
+203
+ Damocles
+S 4a 
+
+
+204
+Yepp
+S 3c 
+
+205
+ 04/Sep/14Tenashity
+E1 5c *
+
+
+206
+You and Me
+HVS 5a 
+
+207
+Mechem
+D  
+
+208
+Gorse
+D  
+
+209
+Hanging Around
+E2 6a 
+
+210
+Holymoac
+HS 4b 
+
+
+211
+Holymoac Direct
+E2 5c 
+
+
+212
+Erewhon
+E2 5b **
+
+
+213
+Street Fighter
+VS 4c **
+
+
+214
+The Shield
+E2 5c ***
+
+
+215
+Waiting For The Sun
+E4 6b 
+
+216
+Lucky Man
+E4 6b 
+
+
+217
+Ozymandias
+E4 6a **
+
+
+218
+Fraggle Rock
+HS
+
+219
+Eliminate A
+VD  ***
+
+220
+Eliminate A Dash
+VS 4b **
+
+221
+Return to Innocence
+E3 5c 
+
+222
+Eliminate B Dash
+VD  *
+
+
+223
+Eliminate B
+D  *
+
+
+224
+Up Slide Run
+VS 4c 
+
+
+225
+Eleven's a Crowd
+VS 4c 
+
+
+226
+Eliminate C
+D  
+
+227
+Eliminate D
+D  
+
+228
+Adidas
+D  
+
+229
+Eliminate D Dash
+VD  
+
+230
+Sentry Box
+D  
+
+231
+Eliminate E
+D  
+
+232
+Jelly Bean
+S 4a 
+
+233
+Jelly Baby
+HS 4b 
+
+234
+Nelson's End
+S 3c 
+
+235
+Smouldering Stirrups
+E2 6a *
+
+236
+Mad as a Hatter
+E3 6a 
+
+237
+Blazing Saddles
+E2 5c **
+
+
+238
+Joas
+VS 4c 
+
+
+239
+Diadem
+E1 5b 
+
+240
+Jingle Bells
+E2 6a 
+
+241
+The ragged Edge
+E3 6a 
+
+
+242
+Alter-Ego
+E2 6a 
+
+243
+Ground Zero
+E2 6a 
+
+244
+Custodian Conduct
+E3 6b 
+
+245
+Demonic
+S  
+
+246
+Necropolis
+E1 5b 
+
+247
+Detritus
+VS 4c 
+
+248
+Re-Entry
+HVS 5a 
+
+249
+Stucco
+D  
+
+250
+High True Buffer Clear
+HVS 5a 
+
+251
+Ice Cream
+E4 6a 
+
+252
+Greenland Crack
+E3 6a 
+
+253
+The Arete
+VS 4c 
+
+254
+Brachial
+S 3c 
+
+255
+Dactylic
+S 3c 
+
+256
+The Musketeers
+S 4a 
+
+
+257
+Waltzing Matilda
+D  
+
+258
+Eos
+D  
+
+259
+Suas
+S 3c 
+
+260
+Monymusk
+D  
+
+261
+Appetite for Destruction
+E5 6a **
+
+262
+Ripsnorter
+E5 6a **
+
+263
+Indecent Assault
+E7 6c **
+
+264
+Alexandria
+E6 6b **
+
+265
+The Ghost
+E2 5b ***
+
+266
+Haunted
+E5 6a ***
+
+267
+The Bogey Man
+E6 6a 
+
+268
+The Phantom Rasberry Blower
+E5 5c ***
+
+269
+Spectre
+E6 6a 
+
+270
+Poltergeist
+E4 5c *
+
+271
+The Exorcist
+E2 5c 
+
+272
+Yorkshire Pudding
+HS 4b **
+
+273
+Hung Over
+E3 6a *
+
+274
+Honeypot Crack
+S 3c **
+
+275
+The Crucible
+E3 6a 
+
+276
+Masochist
+E3 6a *
+
+277
+El Camino
+E4 6b 
+
+278
+Space Shuttle
+E3 6b **
+
+279
+Lunar Landing
+E2 5b 
+
+280
+Voltas, Vortic, Vector
+E3 6b 
+
+281
+Lumberjack
+S 4a 
+
+282
+Silver Lining
+HS 4c 
+
+283
+Slab Route
+D  
+
+284
+Porcupine
+VD  
+
+285
+Oggie
+S 4a 
+
+286
+Fang
+HVS 5a **
+
+287
+Skid Row
+HVS 5b 
+
+288
+Stereo-Tentacles
+HVS 5a ***
+
+289
+Hiatus
+HS 4b 
+
+290
+Drifter's Escape
+VS 4b 
+
+291
+Shatt
+S 4a 
+
+292
+Eclipse
+S 4a 
+
+293
+Subpoena
+HS 4b 
+
+294
+Assassin
+HVS 5a *
+
+295
+Triptych
+VS 4c 
+
+296
+Diphthong
+S 4a *
+
+297
+Slabs Wall
+D  
+
+298
+Drinker's Direct
+VD  
+
+299
+Drinker's Delight
+VD  
+
+300
+Need a Drink
+E4 6b 
+
+301
+Coca-Cola
+D  
+
+302
+Inside Straight
+HVS 5b 
+
+303
+Occam's Edge
+HVS 5b 
+
+304
+Enter Cert
+E2 6b 
+
+305
+Dynamic
+S 3c 
