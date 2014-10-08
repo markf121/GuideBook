@@ -1,0 +1,12 @@
+Dalkey Quarry Guidebook Android Application Requirements Specification
+	
+	Requirements:
+
+		1. At the very least the app must be able to display information on a each of the routes listed in the Dalkey Quarry Rock Climbing Guidebook 2005 as published by the Mountaineering Council of Ireland.
+
+		2. The application shall also include additional routes, where possible, that were first climbed since the last guidebook was written (2005).
+
+		3. In addition to route information the application shall also make use of photogrpahs, topos and maps. This is to make it easier to find routes in certain areas of the crag and determine the line a route takes. A topo of a route should be easily accessible from the 'page' that the route information is listed.
+
+		4. The user should be able to 'tick' climbs they have completed. A logbook of all the user's 'ticked' routes should be able to be viewed. In the logbook the user may also state in what way the ascent was made, and a personal note of reflection.
+
