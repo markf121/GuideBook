@@ -1,0 +1,11 @@
+This is the documentation of a proposed android application that I intend to develop. The project will be an android app of the current Dalkey Quarry Rock Climbing Guide (MCI Guide 2005). This is a personal project but will require some additional external input. Such as potential copywright information from the current (2005) guidebook. I have intended to include any ascents that have been made since the current guidebook was published.
+
+Personal notes
+
+	08/10/14
+		New topos/photos will need to be taken and/or existing photos will need to be acquired. In the case of new photos and Topos, Roisin White has expressed interest in taking the photos. As for existing photos to be included, Ronan Browner owns most of the photos in the current guidebook and will need to be approched if his photos are to be included.
+			- As a sidenote I personally like the character that the paper guidebook has, which is stemmed from the photos of people climbing. I would like to recreate this character and include as many photos as possible from the current existing guidebooks and possibly ones that are not included.
+
+		I have begun testing current guidebook apps on the Google Play Store, free ones for now. Some free guidebooks lack much regard for usability and feel unnatural to use. I aim to provide the best usability that I feel I can deliver. I'm unsure whether ths quality is reflected in the cost of the App. As of yet I am still undecided whether this app will be paid, but I would like the end result to reflect the quality that current paid apps do.
+			ex: North Wales Lime Lite
+
