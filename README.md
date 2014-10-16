@@ -1,4 +1,4 @@
 GuideBook
 =========
 
-A collection of material for a rock climbing guidebook for Dalkey Quarry in Dublin.
+A collection of material for an android app version of Dalkey Quarry Rock Climbing Guide.
