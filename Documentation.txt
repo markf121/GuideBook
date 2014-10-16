@@ -9,3 +9,11 @@ Personal notes
 		I have begun testing current guidebook apps on the Google Play Store, free ones for now. Some free guidebooks lack much regard for usability and feel unnatural to use. I aim to provide the best usability that I feel I can deliver. I'm unsure whether ths quality is reflected in the cost of the App. As of yet I am still undecided whether this app will be paid, but I would like the end result to reflect the quality that current paid apps do.
 			ex: North Wales Lime Lite
 
+
+
+
+Additional Features
+	- allow the user to swipe left and right bewtween individual route pages
+	- Include a 'location' page detailing how to get to dalkey by public transport and by car with a google maps view implemented in the page
+	- On each route page there should be a small cropped image of the topo for that route. Clicking on it could bring the user to the full screen view of that topo. hitting back returns the user to the previous page
+	
